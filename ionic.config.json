@@ -1,0 +1,7 @@
+{
+  "name": "fasolti-app-ficticio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

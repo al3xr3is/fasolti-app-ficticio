@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "fasolti-app-ficticio",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
